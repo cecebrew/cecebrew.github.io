@@ -1063,7 +1063,8 @@ header.main > :last-child {
   border-radius: 0.375em;
   border: 0;
   display: inline-block;
-  position: relative; }
+  position: relative;
+}
   .image img {
     border-radius: 0.375em;
     display: block; }
